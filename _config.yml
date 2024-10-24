@@ -1,13 +1,13 @@
 # Site settings
-title: 三叶草国际语
-SEOTitle: 三叶草国际语 - 让沟通更容易
+title: 闲言碎语
+SEOTitle: 闲言碎语 - 记录每次上网新发现
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
-description: "中西融合, 即学即会, 从此不再辛苦背单词"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
-url: "https://klovien.github.io"          # your host, for absolute URL
+email: 433117@qq.com
+description: "纯粹记录每次上网时想记录的一些东西"
+keyword: "随笔,心情,懒洋洋的鱼"
+url: "https://halazu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/halazu/halazu.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -68,21 +68,6 @@ gitalk:
   owner: klovien    #github用户名
   admin: klovien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
-
-# 统计
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
-# Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
-
-
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
